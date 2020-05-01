@@ -2,8 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Change 1 recipes o
-      Another change on how to configure / customize this project,<br />
+      Change 1 recipes o Another change on how to configure / customize this
+      project,<br />
       check out thesdasd
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
         >vue-cli documentation</a

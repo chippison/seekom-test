@@ -1,7 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
-import Users from '../components/Users';
+import Users from "../components/Users";
 
 Vue.use(VueRouter);
 
@@ -24,8 +24,7 @@ const routes = [
     path: "/users",
     name: "Users",
     component: Users
-  },
-
+  }
 ];
 
 const router = new VueRouter({
